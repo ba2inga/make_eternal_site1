@@ -1,4 +1,4 @@
-baseurl = "https://make-eternal1.netlify.com"
+baseurl = "https://make-eternal1.netlify.com/"
 title = "Universal"
 themesDir = "../.."
 languageCode = "en-us"
