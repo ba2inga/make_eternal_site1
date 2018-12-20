@@ -36,6 +36,8 @@ function contactForm () {
           .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
           .fadeIn()
 
+
+          e.preventDefault();
           var error = false;
           var name = $('#name').val();
           var email = $('#email').val();
@@ -80,7 +82,27 @@ function contactForm () {
               'disabled': 'false',
               'value': 'Sending...'
             });
+            /* using the jquery's post(ajax) function and a lifesaver
+            function serialize() which gets all the data from the form
+            we submit it to send_email.php */
+            $.post("/success/", $("#contact-form").serialize(), function (result) {
+              //and after the ajax request ends we check the text returned
+              if (result == 'sent') {
+                //if the mail is sent remove the submit paragraph
+                $('#cf-submit').remove();
+                //and show the mail success div with fadeIn
+                $('#mail-success').fadeIn(500);
+              } else {
+                //show the mail failed div
+                $('#mail-fail').fadeIn(500);
+                //re enable the submit button by removing attribute disabled and change the text back to Send The Message
+                $('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
+              }
+            });
+            }
+            });
 
+            });
 
 
 
