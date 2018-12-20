@@ -37,12 +37,6 @@ function contactForm () {
           .fadeIn()
         }
 
-        $('#contact-submit1').attr({
-  				'disabled': 'true',
-  				'value': 'Sending...'
-  			});
-
-
 
       , 'json')
     return false
