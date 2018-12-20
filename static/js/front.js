@@ -41,7 +41,7 @@ function contactForm () {
           //disable the submit button to avoid spamming
           //and change the button text to Sending...
           $('#contact-submit').attr({
-            'disabled': 'false',
+            
             'value': 'Sending...'
           });
 
