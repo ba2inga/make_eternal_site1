@@ -35,6 +35,55 @@ function contactForm () {
         $('#contact-message')
           .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
           .fadeIn()
+
+          var error = false;
+          var name = $('#name').val();
+          var email = $('#email').val();
+          var subject = $('#subject').val();
+          var message = $('#message').val();
+
+          /* in the next section we do the checking by using VARIABLE.length
+          where VARIABLE is the variable we are checking (like name, email),
+          length is a JavaScript function to get the number of characters.
+          And as you can see if the num of characters is 0 we set the error
+          variable to true and show the name_error div with the fadeIn effect.
+          if it's not 0 then we fadeOut the div( that's if the div is shown and
+          the error is fixed it fadesOut.
+
+          The only difference from these checks is the email checking, we have
+          email.indexOf('@') which checks if there is @ in the email input field.
+          This JavaScript function will return -1 if no occurrence have been found.*/
+          if (name.length == 0) {
+            var error = true;
+            $('#name').css("border-color", "#D8000C");
+          } else {
+            $('#name').css("border-color", "#666");
+          }
+          if (email.length == 0 || email.indexOf('@') == '-1') {
+            var error = true;
+            $('#email').css("border-color", "#D8000C");
+          } else {
+            $('#email').css("border-color", "#666");
+          }
+          if (message.length == 0) {
+            var error = true;
+            $('#message').css("border-color", "#D8000C");
+          } else {
+            $('#message').css("border-color", "#666");
+          }
+
+          //now when the validation is done we check if the error variable is false (no errors)
+          if (error == false) {
+            //disable the submit button to avoid spamming
+            //and change the button text to Sending...
+            $('#contact-submit').attr({
+              'disabled': 'false',
+              'value': 'Sending...'
+            });
+
+
+
+
       }
       , 'json')
     return false
