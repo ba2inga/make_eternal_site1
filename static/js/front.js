@@ -35,6 +35,8 @@ function contactForm () {
         $('#contact-message')
           .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
           .fadeIn()
+
+          e.preventDefault();
       }
       , 'json')
     return false
