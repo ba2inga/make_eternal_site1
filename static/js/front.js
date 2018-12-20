@@ -37,7 +37,7 @@ function contactForm () {
           .fadeIn()
         }
 
-        $('#contact-submit').attr({
+        $('#contact-submit1').attr({
   				'disabled': 'false',
   				'value': 'Sending...'
   			});
