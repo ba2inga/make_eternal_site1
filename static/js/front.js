@@ -41,7 +41,6 @@ function contactForm () {
           var error = false;
           var name = $('#name').val();
           var email = $('#email').val();
-          var subject = $('#subject').val();
           var message = $('#message').val();
 
           /* in the next section we do the checking by using VARIABLE.length
@@ -61,7 +60,7 @@ function contactForm () {
           } else {
             $('#name').css("border-color", "#666");
           }
-          if (email.length == 0 || email.indexOf('@') == '-1') {
+          if (email.length == 0 & email.indexOf('@') == '-1') {
             var error = true;
             $('#email').css("border-color", "#D8000C");
           } else {
