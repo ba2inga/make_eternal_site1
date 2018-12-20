@@ -95,21 +95,21 @@ paginate = 10
     copyright = "Copyright (c) 2018, Make Eternal; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "2018.12.20"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+        <br>부산시 동래구
+        <br>충렬대로
+        <br>1446-19
+        <br>Make-Eternal
         <br>
-        <strong>Great Britain</strong>
+        <strong>대한민국</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "35.205870"
+    longitude = "129.070685"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
