@@ -3,8 +3,12 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# 문의사항은 고객센터로 연락주세요
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+주소 : 부산시 동래구 충렬대로 1446-19 Make-Eternal
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+연락처 : 010-7714-2375
+
+이메일 : me_company@naver.com
+
+오늘도 좋은하루 되세요. 감사합니다.
