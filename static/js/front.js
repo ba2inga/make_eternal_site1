@@ -38,9 +38,9 @@ function contactForm () {
         }
 
         {
-        'value': 'Sending...'
+        'value1': 'sex...'
         }
-        
+
       , 'json')
     return false
   })
