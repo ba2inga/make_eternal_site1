@@ -37,13 +37,10 @@ function contactForm () {
           .fadeIn()
         }
 
-        if (error == false) {
-          //disable the submit button to avoid spamming
-          //and change the button text to Sending...
-
-
-            'value': 'Sending...'
-          );
+        $('#contact-submit').attr({
+  				'disabled': 'false',
+  				'value': 'Sending...'
+  			});
 
 
 
