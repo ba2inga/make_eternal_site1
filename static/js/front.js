@@ -40,10 +40,10 @@ function contactForm () {
         if (error == false) {
           //disable the submit button to avoid spamming
           //and change the button text to Sending...
-          $('#contact-submit').attr({
-            
+
+
             'value': 'Sending...'
-          });
+          );
 
 
 
