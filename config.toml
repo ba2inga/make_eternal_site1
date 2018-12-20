@@ -1,5 +1,5 @@
 baseurl = "https://make-eternal1.netlify.com/"
-title = "Universal"
+title = "Make-eternal"
 
 themesDir = "../.."
 languageCode = "en-us"
@@ -91,8 +91,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "에스테틱 대표 브랜드 메이크 이터널과 함께 하세요!"
+    copyright = "Copyright (c) 2018, Make Eternal; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
