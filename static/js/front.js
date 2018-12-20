@@ -37,7 +37,10 @@ function contactForm () {
           .fadeIn()
         }
 
-
+        {
+        'value': 'Sending...'
+        }
+        
       , 'json')
     return false
   })
