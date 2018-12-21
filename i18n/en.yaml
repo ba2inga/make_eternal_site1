@@ -5,7 +5,7 @@
   translation: "Template by"
 
 - id: portedBy
-  translation: "Ported to Hugo by"
+  translation: "Ported by"
 
 - id: contactGoTo
   translation: "Go to contact page"

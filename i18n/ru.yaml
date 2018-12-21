@@ -5,7 +5,7 @@
   translation: "Шаблон от"
 
 - id: portedBy
-  translation: "Портирован на Hugo"
+  translation: "Портирован нa"
 
 - id: contactGoTo
   translation: "Страница контактов"
@@ -31,7 +31,7 @@
 - id: contactSend
   translation: "Отправить сообщение"
 
-- id: navHome 
+- id: navHome
   translation: "перейти на главную"
 
 - id: navToggle
@@ -60,7 +60,7 @@
 
 - id: aboutUs
   translation: "О нас"
-  
+
 - id: newer
   translation: "Следующая запись"
 

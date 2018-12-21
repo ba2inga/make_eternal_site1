@@ -5,7 +5,7 @@
   translation: "Design durch"
 
 - id: portedBy
-  translation: "Portiert nach Hugo durch"
+  translation: "Portiert durch"
 
 - id: contactGoTo
   translation: "Zur Kontaktseite"
@@ -28,10 +28,10 @@
 - id: contactMessage
   translation: "Ihre Nachricht an uns"
 
-- id: contactSend 
+- id: contactSend
   translation: "Nachricht senden"
 
-- id: navHome 
+- id: navHome
   translation: "zur Hauptseite"
 
 - id: navToggle
