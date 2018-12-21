@@ -1,4 +1,10 @@
 weight: 1
-title: "에스테틱의 새로운 패러다임을 만듭니다."
-description: "<p>비지니스 플랜. 영업전략. 온라인마켓팅.<br>메이크이터널과 함께하세요.</p>"
+title: "새로운 패러다임"
+description: >
+<ul class="list-style-none">
+   <li>비지니스 플랜</li>
+   <li>영업전략</li>
+   <li>온라인마켓팅</li>
+   <li>메이크이터널과 함께하세요</li>
+ </ul>
 image: "img/carousel/template-homepage.png"
