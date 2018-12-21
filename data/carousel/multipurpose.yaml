@@ -1,10 +1,10 @@
 weight: 1
 title: "새로운 패러다임"
 description: >
-<ul class="list-style-none">
-   <li>비지니스 플랜</li>
-   <li>영업전략</li>
-   <li>온라인마켓팅</li>
-   <li>메이크이터널과 함께하세요</li>
- </ul>
+  <ul class="list-style-none">
+    <li>비지니스 플랜</li>
+    <li>영업전략</li>
+    <li>온라인마켓팅</li>
+    <li>메이크이터널과 함께하세요</li>
+   </ul>
 image: "img/carousel/template-homepage.png"
