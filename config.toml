@@ -89,21 +89,21 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "me_company@naver.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>에스테틱 대표 브랜드 메이크 이터널과 함께 하세요</p>"
+    copyright = "Copyright (c) 2018, make-eternal all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>Make-Eternal Co., Ltd.</strong>
+        <br>부산시 동래구
+        <br>온천동 1446-19
+        <br>메이크이터널
+        <br>Office
         <br>
-        <strong>Great Britain</strong>
+        <strong>대한민국</strong>
       </p>
       """
     latitude = "-12.043333"
@@ -115,7 +115,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us me_company@naver.com</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -144,16 +144,16 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "전문가"
+    subtitle = "우리는 최고의 서비스를 약속 합니다. 젊은 참신한 다양한 분야의 전문가들이 에스테틱 최초의 비지니스 플랜을 만들어 가겠습니다."
 
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "포트폴리오"
+    subtitle = "우리는 다양한 마켓팅 채널을 확보하여 원장님들께 힘이 되고자 합니다"
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "둘러보기"
 
 [params.clients]
     enable = true
@@ -165,5 +165,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "제품소개"
+    subtitle = ""
