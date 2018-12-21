@@ -144,8 +144,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "전문가"
-    subtitle = "우리는 최고의 서비스를 약속 합니다. 젊은 참신한 다양한 분야의 전문가들이 에스테틱 최초의 비지니스 플랜을 만들어 가겠습니다."
+    title = "구성원"
+    subtitle = "우리는 최고의 서비스를 약속 합니다. 젊고 참신한 전문가들이 에스테틱 최초의 비지니스 플랜을 만들어 가겠습니다."
 
 [params.see_more]
     enable = true
