@@ -1,5 +1,5 @@
 baseurl = "https://make-eternal1.netlify.com/"
-title = "Universal"
+title = "Make_Eternal"
 themesDir = "../.."
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -16,12 +16,12 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "메이크이터널"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "제품소개"
     url  = "/blog/"
     weight = 2
 
@@ -32,7 +32,7 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "문의사항"
     url  = "/contact/"
     weight = 4
 
@@ -64,9 +64,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "make_eternal"
+    defaultKeywords = ["hugo", "go"]
+    defaultDescription = "made by make eternal Co., Ltd"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -115,7 +115,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us me_company@naver.com</p>
+    text = """<p class="hidden-sm hidden-xs">Email : me_company@naver.com</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
