@@ -56,12 +56,6 @@ paginate = 10
     url = "http://twitter.com"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-    weight = 3
-    name = "Email"
-    url = "me_company@naver.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
-
 [params]
     viewMorePostLink = "/blog/"
     author = "make_eternal"
