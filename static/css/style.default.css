@@ -642,9 +642,9 @@ fieldset[disabled] .btn-template-transparent-primary.active {
   border-color: #fff;
 }
 .btn-template-transparent-black {
-  color: #ffffff;
+  color: #999999;
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #999999;
 }
 .btn-template-transparent-black:hover,
 .btn-template-transparent-black:focus,
