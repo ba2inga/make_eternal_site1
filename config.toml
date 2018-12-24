@@ -110,6 +110,7 @@ paginate = 6
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
+    blog1 = "/blog1/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
