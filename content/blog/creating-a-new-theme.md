@@ -11,7 +11,7 @@ banner = "img/banners/banner-1.jpg"
 ## 하이드라 수딩 토너
 
 
-<img src="/img/banners/banner-1.jpg" width="500" height="400">
+<img src="/img/banners/banner-1.jpg" style="max-width: 100%; height: auto;">
 
 +수분 밸런스 케어
 
