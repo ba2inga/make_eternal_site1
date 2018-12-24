@@ -8,6 +8,9 @@ banner = "img/banners/banner-1.jpg"
 
 ## 하이드라 수딩 토너
 
+
+![텍스트](mg/banners/banner-1.jpg)
+
 +수분 밸런스 케어
 
 메마르고 거친 피부에 풍부한 수분 공급과 동시에 수분 밸러스를 유지해 주는 토너 입니다.
