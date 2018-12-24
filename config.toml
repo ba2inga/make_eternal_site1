@@ -83,7 +83,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "me_company@naver.com"
 
-    about_us = "<p>에스테틱 대표 브랜드 메이크 이터널과 함께 하세요</p>"
+    about_us = "<p>에스테틱 대표 브랜드 메이크 이터널</p>"
     copyright = "Copyright (c) 2018, make-eternal all rights reserved."
 
     # Format dates with Go's time formatting
