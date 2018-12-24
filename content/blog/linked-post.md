@@ -1,8 +1,8 @@
 +++
 title = "바이오펩타 리바이탈 라이징 크림"
 date = "2015-10-02T21:49:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming"]
+tags = ["크림"]
+categories = ["닥터랩"]
 banner = "img/banners/바이오펩타리바이탈라이징크림.jpg"
 author = "John Doe"
 +++

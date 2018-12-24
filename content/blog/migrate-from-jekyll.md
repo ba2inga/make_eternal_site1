@@ -1,8 +1,8 @@
 +++
 title = "아쥴렌 스킨 세이프 선블럭"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["선크림"]
+categories = ["닥터랩"]
 banner = "img/banners/아쥴렌스킨세이프선블럭.jpg"
 +++
 

@@ -1,8 +1,8 @@
 +++
 title = "닥터랩 인텐시브 아이 크림"
 date = "2015-06-24T13:50:46+02:00"
-tags = ["theme"]
-categories = ["starting"]
+tags = ["크림"]
+categories = ["닥터랩"]
 banner = "img/banners/인텐시브아이크림.jpg"
 +++
 

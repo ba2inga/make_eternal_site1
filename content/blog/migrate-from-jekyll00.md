@@ -1,8 +1,8 @@
 +++
 title = "화이트 팩터 마스크"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["마스크"]
+categories = ["닥터랩"]
 banner = "img/banners/화이트팩터마스크.jpg"
 +++
 

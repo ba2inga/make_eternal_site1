@@ -1,8 +1,8 @@
 +++
 title = "닥터랩 올데이 디펜스 선크림"
 date = "2015-09-17T13:47:08+02:00"
-tags = ["go"]
-categories = ["programming"]
+tags = ["크림"]
+categories = ["닥터랩"]
 banner = "img/banners/올데이디펜스선크림.jpg"
 +++
 

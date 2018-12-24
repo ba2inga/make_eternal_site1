@@ -1,8 +1,8 @@
 +++
 title = "하이드라 더마 솔루션"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["솔루션"]
+categories = ["닥터랩"]
 banner = "img/banners/하이드라더마솔루션.jpg"
 +++
 

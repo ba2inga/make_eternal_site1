@@ -1,8 +1,8 @@
 +++
 title = "아쥴렌 무스 클렌져"
 date = "2015-10-02T21:49:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming"]
+tags = ["클렌져"]
+categories = ["닥터랩"]
 banner = "img/banners/아쥴렌무스클렌져.jpg"
 author = "John Doe"
 +++

@@ -1,7 +1,7 @@
 +++
 title = "닥터랩 수딩 토너"
 date = "2015-06-24T13:50:46+02:00"
-tags = ["theme"]
+tags = ["토너"]
 categories = ["닥터랩"]
 banner = "img/banners/수딩토너.jpg"
 +++

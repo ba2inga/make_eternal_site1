@@ -1,8 +1,8 @@
 +++
 title = "닥터랩 데일리 포어 딥 클렌져"
 date = "2015-08-03T13:39:46+02:00"
-tags = ["hugo"]
-categories = ["pseudo"]
+tags = ["클렌져"]
+categories = ["닥터랩"]
 banner = "img/banners/데일리포어딥클렌져.jpg"
 +++
 

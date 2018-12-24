@@ -1,8 +1,8 @@
 +++
 title = "하이드라 수딩겔 크림"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["크림"]
+categories = ["닥터랩"]
 banner = "img/banners/하이드라수딩겔크림.jpg"
 +++
 

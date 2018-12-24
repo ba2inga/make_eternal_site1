@@ -1,8 +1,8 @@
 +++
 title = "올인원 클렌징 워터"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["클렌져"]
+categories = ["닥터랩"]
 banner = "img/banners/올인원클렌징워터.jpg"
 +++
 
