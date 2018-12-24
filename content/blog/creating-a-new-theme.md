@@ -3,7 +3,7 @@ title = "닥터랩 수딩토너"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["theme"]
 categories = ["닥터랩"]
-banner = "img/banners/banner-1.jpg"
+banner = "img/banners/수딩토너.jpg"
 +++
 
 
@@ -11,7 +11,7 @@ banner = "img/banners/banner-1.jpg"
 ## 하이드라 수딩 토너
 
 
-<img src="/img/banners/banner-1.jpg" style="max-width: 100%; height: auto;">
+<img src="/img/banners/수딩토너.jpg" style="max-width: 100%; height: auto;">
 
 +수분 밸런스 케어
 
