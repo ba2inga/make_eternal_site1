@@ -144,7 +144,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "포트폴리오"
+    title = "Portfolio"
     subtitle = "우리는 다양한 마켓팅 채널을 확보하여 원장님들께 힘이 되고자 합니다"
     link_url = "#"
     link_text = "둘러보기"
