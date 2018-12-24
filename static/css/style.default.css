@@ -688,7 +688,7 @@ fieldset[disabled] .btn-template-transparent-black.active {
 .btn-template-transparent-black.active {
   background: #fff;
   color: #000;
-  border-color: #fff;
+  border-color: #999999;
 }
 .btn-template-primary {
   color: #ffffff;
