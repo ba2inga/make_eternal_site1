@@ -1,5 +1,5 @@
 +++
-title = "닥터랩 수딩토너"
+title = "닥터랩 수딩 토너"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["theme"]
 categories = ["닥터랩"]

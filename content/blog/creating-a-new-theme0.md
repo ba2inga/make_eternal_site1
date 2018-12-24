@@ -1,12 +1,12 @@
 +++
-title = "닥터랩 인텐시브 아이크림"
+title = "닥터랩 인텐시브 아이 크림"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["theme"]
 categories = ["starting"]
 banner = "img/banners/인텐시브아이크림.jpg"
 +++
 
-## 하이드라 수딩 토너
+## 인텐시브 아이 크림
 <img src="/img/banners/인텐시브아이크림.jpg" style="max-width: 100%; height: auto;">
 진정 보습 케어<br>
 촉촉한 수딩 토너<br>
@@ -15,7 +15,7 @@ banner = "img/banners/인텐시브아이크림.jpg"
 
 
 ## 제품 상세 설명
-메마르고 거친 피부에 풍부한 수분 공급과 동시에 수분 밸러스를 유지해 주는 토너 입니다.
+메마르고 거친 피부에 풍부한 수분 공급과 동시에 수분 밸러스를 유지해 주는 토너 입니다.<pre>
 
 +풍부한 보습감
 
