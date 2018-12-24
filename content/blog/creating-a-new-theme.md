@@ -11,7 +11,7 @@ banner = "img/banners/banner-1.jpg"
 ## 하이드라 수딩 토너
 
 
-{{< figure src="/img/banners/banner-1.jpg" title="Steve Francia" >}}
+{{< img src="/img/banners/banner-1.jpg" >}}
 
 +수분 밸런스 케어
 
