@@ -1,10 +1,29 @@
 +++
-title = "Linked post"
+title = "아쥴렌 무스 클렌져"
 date = "2015-10-02T21:49:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming"]
-banner = "img/banners/banner-4.jpg"
+banner = "img/banners/아쥴렌무스클렌져.jpg"
 author = "John Doe"
 +++
 
-5
+## 아쥴렌 무스 클렌져
+<img src="/img/banners/아쥴렌무스클렌져.jpg" style="max-width: 100%; height: auto;">
+진정 보습 케어<br>
+촉촉한 수딩 토너<br>
+수분 밸런스<br>
+
+## 제품 상세 설명
+메마르고 거친 피부에 풍부한 수분 공급과 동시에 수분 밸러스를 유지해 주는 토너 입니다.<pre>  
+
++풍부한 보습감
+
+히아루론산과 특허 성분인 아미노산 콤플렉스가 풍부한 수분 공급으로 오랜시간 보습감을 지속시켜 건강한 피부를 관리해 줍니다.
+
++부드럽고 매끄러운 피부 케어
+
+식물성 보습 성분이 피부에 흡수되어 부드럽고 매끄러운 피부결로 관리해 줍니다.
+
++스트레스로 지친 피부를 편안하게 진정
+
+유해 환경으로부터 자극받고 건조한 피부를 부드럽게 진정시켜 주고 카모마일 향이 피부를 편안하게 관리해 줍니다.
