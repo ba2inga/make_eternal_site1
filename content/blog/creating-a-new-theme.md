@@ -6,15 +6,11 @@ categories = ["닥터랩"]
 banner = "img/banners/수딩토너.jpg"
 +++
 
-
-
 ## 하이드라 수딩 토너
-
-
 <img src="/img/banners/수딩토너.jpg" style="max-width: 100%; height: auto;">
-진정 보습 케어
-촉촉한 수딩 토너
-수분 밸런스
+진정 보습 케어<br>
+촉촉한 수딩 토너<br>
+수분 밸런스<br>
 
 
 
