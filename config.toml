@@ -160,4 +160,4 @@ paginate = 4
 [params.recent_posts]
     enable = true
     title = "제품소개"
-    subtitle = ""
+    subtitle = "제품소개"
