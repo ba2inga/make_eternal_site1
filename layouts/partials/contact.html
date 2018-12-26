@@ -68,3 +68,9 @@
     </div>
     <!-- /.row -->
 </div>
+
+{{ if .Site.DisqusShortname }}
+  <div class="disqus-comments">
+  {{ template "_internal/disqus.html" . }}
+  </div>
+{{ end }}
