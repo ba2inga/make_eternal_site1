@@ -104,7 +104,7 @@ paginate = 4
     longitude = "-77.028333"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    제품설명 = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
