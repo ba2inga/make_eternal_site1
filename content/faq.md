@@ -1,5 +1,5 @@
 +++
-title = "FAQ"
+title = "문의사항"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++

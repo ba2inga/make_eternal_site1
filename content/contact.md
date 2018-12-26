@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "게시판"
 id = "contact"
 +++
 
