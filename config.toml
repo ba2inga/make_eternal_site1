@@ -48,6 +48,11 @@ paginate = 4
     url = "/blog1/faq/"
 
 [[menu.main]]
+    parent = "에스테틱 소식"
+    name = "매물관련 소개"
+    url = "/blog1/faq/"
+
+[[menu.main]]
     name = "매물관련 소개"
     url  = "/contact/"
     weight = 4
