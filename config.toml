@@ -54,7 +54,7 @@ paginate = 4
 [[menu.main]]
     parent = "에스테틱 정보"
     name = "구인구직 안내"
-    url = "/blog1/구인구직 안내/"
+    url = "/blog1/구인구직 안내/구인구직 안내"
 
 [[menu.main]]
     name = "문의사항"
