@@ -22,7 +22,7 @@ paginate = 4
 
 [[menu.main]]
     name = "제품소개"
-identifier = "blog"
+    identifier = "blog"
     url  = "/blog/"
     weight = 2
 
@@ -38,7 +38,7 @@ identifier = "blog"
     weight = 4
 
 [[menu.main]]
-    parent = "faq"
+    parent = "에스테틱 소식"
     name = "nike"
     url = "/blog1/blog/"
 
