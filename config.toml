@@ -27,38 +27,31 @@ paginate = 4
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "새로운 소식"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
-
-[[menu.main]]
-    name = "에스테틱 소개"
-    url  = "/contact/"
-    weight = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "관리실 소개"
     url = "/blog1/faq/"
 
-
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "피부과 병원"
     url = "/blog1/faq/"
 
-
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "매물관련 소개"
     url = "/blog1/faq/"
-    
 
 [[menu.main]]
-    name = "매물관련 소개"
-    url  = "/contact/"
-    weight = 4
+    parent = "에스테틱 소식"
+    name = "구인구직 안내"
+    url = "/blog1/faq/"
+
 
 [[menu.main]]
     name = "문의사항"
