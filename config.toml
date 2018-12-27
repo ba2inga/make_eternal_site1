@@ -39,8 +39,13 @@ paginate = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
-    name = "nike"
-    url = "/blog1/blog/"
+    name = "관리실 소개"
+    url = "/blog1/faq/"
+
+[[menu.main]]
+    parent = "에스테틱 소식"
+    name = "피부과 병원"
+    url = "/blog1/faq/"
 
 [[menu.main]]
     name = "매물관련 소개"
