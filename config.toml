@@ -31,30 +31,30 @@ paginate = 4
     weight = 3
 
 [[menu.main]]
-    identifier = "에스테틱 소식"
-    name = "에스테틱 소식"
-    url = "/blog1/faq/"
+    identifier = "에스테틱 정보"
+    name = "에스테틱 정보"
+    url = "/blog1/"
     weight = 4
 
 [[menu.main]]
-    parent = "에스테틱 소식"
+    parent = "에스테틱 정보"
     name = "피부관리실 소개"
-    url = "/blog1/faq/"
+    url = "/blog1/피부관리실 소개/"
 
 [[menu.main]]
-    parent = "에스테틱 소식"
+    parent = "에스테틱 정보"
     name = "피부과 병원"
-    url = "/blog1/faq/"
+    url = "/blog1/피부과 병원/"
 
 [[menu.main]]
-    parent = "에스테틱 소식"
+    parent = "에스테틱 정보"
     name = "매물관련 소개"
-    url = "/blog1/faq/"
+    url = "/blog1/매물관련 소개/"
 
 [[menu.main]]
-    parent = "에스테틱 소식"
+    parent = "에스테틱 정보"
     name = "구인구직 안내"
-    url = "/blog1/faq/"
+    url = "/blog1/구인구직 안내/"
 
 [[menu.main]]
     name = "문의사항"
@@ -125,7 +125,7 @@ paginate = 4
         <strong>대한민국</strong>
       </p>
       """
-  
+
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:title/"
