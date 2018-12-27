@@ -1,10 +1,9 @@
 +++
-title = "게시판"
+title = "문의사항"
 id = "contact"
 +++
 
-# We are here to help you
+# 문의 사항을 남겨 주세요~!
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+궁금하신점이 있으시면 아래 게시판에 글을 남겨 주세요
+간단한 로그인 절차로 글을 남기실 수 있습니다.^^
