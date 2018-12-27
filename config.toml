@@ -36,21 +36,25 @@ paginate = 4
     parent = "에스테틱 소식"
     name = "관리실 소개"
     url = "/blog1/faq/"
+    weight = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "피부과 병원"
     url = "/blog1/faq/"
+    weight = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "매물관련 소개"
     url = "/blog1/faq/"
+    weight = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
     name = "구인구직 안내"
     url = "/blog1/faq/"
+    weight = 4
 
 
 [[menu.main]]
