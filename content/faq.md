@@ -1,5 +1,5 @@
 +++
-title = "문의사항"
+title = "새로운 소식"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
