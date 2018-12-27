@@ -39,7 +39,7 @@ paginate = 4
 [[menu.main]]
     parent = "faq"
     name = "nike"
-    url = "/blog1/faq/"
+    url = "/blog1/blog/"
 
 [[menu.main]]
     name = "매물관련 소개"
