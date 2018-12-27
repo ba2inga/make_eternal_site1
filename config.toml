@@ -38,6 +38,11 @@ paginate = 4
 
 [[menu.main]]
     parent = "에스테틱 소식"
+    name = "피부관리실 소개"
+    url = "/blog1/faq/"
+
+[[menu.main]]
+    parent = "에스테틱 소식"
     name = "피부과 병원"
     url = "/blog1/faq/"
 
