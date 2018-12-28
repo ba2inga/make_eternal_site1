@@ -1,4 +1,4 @@
-baseurl = "https://make-eternal.shop"
+baseurl = "https://make-eternal.shop/"
 title = "Make_Eternal"
 themesDir = "../.."
 languageCode = "en-us"
