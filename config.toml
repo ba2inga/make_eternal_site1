@@ -114,8 +114,8 @@ paginate = 4
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "/img/logo.png"
+    logo_small = "/img/logo-small.png"
     address = """<p><strong>Make-Eternal Co., Ltd.</strong>
         <br>부산시 동래구
         <br>온천동 1446-19
